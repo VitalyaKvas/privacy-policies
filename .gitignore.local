@@ -1,0 +1,11 @@
+# Execution
+# $ git config core.excludesFile .gitignore.local
+
+# Self ignore
+.gitignore.local
+
+AGENTS.md
+CLAUDE.md
+.claude
+.omc
+docs
